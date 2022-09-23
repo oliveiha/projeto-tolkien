@@ -103,6 +103,10 @@ section p {
     margin-right: 32px;
 }
 
+.youtube-video1 {
+    margin-right: 32px;
+}
+
 /* Configuramos a altura dos ícones, deixamos os elementos lado a lado e removemos o underline dos links */
 .social-links img {
     height: 24px;
