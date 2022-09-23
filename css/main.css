@@ -162,11 +162,11 @@ form button:hover {
 }
 
 input:focus, textarea:focus {
-    outline-color: #182C61;
+    outline-color: #99771a;
 }
 
 footer {
-    background-color: #182C61;
+    background-color: #99771a;
     color: #ecf0f1;
     padding: 16px 0;
 }
